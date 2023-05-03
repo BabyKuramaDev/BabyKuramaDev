@@ -1,4 +1,4 @@
-# README.MD - Jerónimo Dante Vico Ledesma
+# Jerónimo Dante Vico Ledesma
 
 ¡Hola! 👋 Soy Jerónimo Dante Vico Ledesma, un Software Engineer y Tech Lead con experiencia en el desarrollo de aplicaciones web. Me encanta trabajar con tecnologías de vanguardia y contribuir a proyectos de código abierto. A continuación, encontrarás más información sobre mis habilidades y tecnologías con las que trabajo.
 
