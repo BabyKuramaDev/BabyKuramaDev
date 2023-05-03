@@ -2,7 +2,7 @@
 
 ¡Hola! 👋 Soy Jerónimo Dante Vico Ledesma, un Software Engineer y Tech Lead con experiencia en el desarrollo de aplicaciones web. Me encanta trabajar con tecnologías de vanguardia y contribuir a proyectos de código abierto. A continuación, encontrarás más información sobre mis habilidades y tecnologías con las que trabajo.
 
-![GitHub visitors](https://visitor-badge.glitch.me/badge?page_id=KuramaBiju.KuramaBiju)
+![Profile views](https://komarev.com/ghpvc/?username=KuramaBiju&color=blue)
 
 ## Tecnologías que utilizo 🚀
 
