@@ -2,7 +2,7 @@
 
 ¡Hola! 👋 Soy Jerónimo Dante Vico Ledesma, un Software Engineer y Tech Lead con experiencia en el desarrollo de aplicaciones web. Me encanta trabajar con tecnologías de vanguardia y contribuir a proyectos de código abierto. A continuación, encontrarás más información sobre mis habilidades y tecnologías con las que trabajo.
 
-![Profile views](https://komarev.com/ghpvc/?username=Kurama222Biju&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=KuramaBiju&color=blue)
 
 ## Tecnologías que utilizo 🚀
 
@@ -16,11 +16,11 @@
 
 ## Estadísticas de GitHub 📈
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kurama222Biju&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KuramaBiju&theme=onedark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kurama222Biju&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KuramaBiju&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KuramaB222iju&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KuramaBiju&theme=radical)
 
 ## Conecta conmigo 🌐
 
