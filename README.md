@@ -1,16 +1,29 @@
-### Hi there 👋
+# README.MD - Jerónimo Dante Vico Ledesma
 
-<!--
-**KuramaBiju/KuramaBiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! 👋 Soy Jerónimo Dante Vico Ledesma, un Software Engineer y Tech Lead con experiencia en el desarrollo de aplicaciones web. Me encanta trabajar con tecnologías de vanguardia y contribuir a proyectos de código abierto. A continuación, encontrarás más información sobre mis habilidades y tecnologías con las que trabajo.
 
-Here are some ideas to get you started:
+![GitHub visitors](https://visitor-badge.glitch.me/badge?page_id=KuramaBiju.KuramaBiju)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías que utilizo 🚀
+
+- **Lenguajes de programación**: PHP, Javascript, Typescript
+- **Frameworks**: React, Vue, Node.js, Express.js, Laravel
+- **Bases de datos**: MongoDB, MySQL
+- **Control de versiones**: Git, GitHub, GitLab
+- **Metodologías Ágiles**: Scrum, Kanban
+- **Testing**: Jest, PHPUnit, Testing Library, Enzyme
+- **Otras herramientas**: Redux, StoryBook, JIRA, Postman, Formik, ML5.js, TensorFlow.js
+
+## Estadísticas de GitHub 📈
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KuramaBiju&theme=onedark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KuramaBiju&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KuramaBiju&theme=radical)
+
+## Conecta conmigo 🌐
+
+- [LinkedIn](https://www.linkedin.com/in/jerónimo-dante-vico-728379184/)
+- [Twitter](https://twitter.com/@jeronimodev)
+- [Email](mailto:jeronimoledesma0@gmail.com)
