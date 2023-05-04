@@ -25,5 +25,4 @@
 ## Conecta conmigo 🌐
 
 - [LinkedIn](https://www.linkedin.com/in/jerónimo-dante-vico-728379184/)
-- [Twitter](https://twitter.com/@jeronimodev)
 - [Email](mailto:jeronimoledesma0@gmail.com)
