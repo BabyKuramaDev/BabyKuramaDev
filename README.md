@@ -18,9 +18,9 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KuramaBiju&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KuramaBiju&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats-cmgrodnw9-kuramabiju.vercel.app/api?username=KuramaBiju&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KuramaBiju&theme=onedark)
+![Top Languages](https://github-readme-stats-cmgrodnw9-kuramabiju.vercel.app/api/top-langs/?username=KuramaBiju&theme=radical)
 
 ## Conecta conmigo 🌐
 
