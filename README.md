@@ -6,8 +6,8 @@
 
 ## Tecnologías que utilizo 🚀
 
-- **Lenguajes de programación**: PHP, Javascript, Typescript
-- **Frameworks**: React, Vue, Node.js, Express.js, Laravel
+- **Lenguajes de programación**: Typescript, Javascript, PHP
+- **Frameworks**: React, Express.js, NestJS, Vue, Node.js, Laravel
 - **Bases de datos**: MongoDB, MySQL
 - **Control de versiones**: Git, GitHub, GitLab
 - **Metodologías Ágiles**: Scrum, Kanban
