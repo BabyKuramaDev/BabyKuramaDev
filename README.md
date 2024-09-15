@@ -18,7 +18,7 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KuramaBiju&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats-five-ashy-75.vercel.app/api?username=KuramaBiju)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-five-ashy-75.vercel.app/api?username=KuramaBiju)](https://github.com/KuramaBiju/github-readme-stats)
 
 
 ## Conecta conmigo 🌐
