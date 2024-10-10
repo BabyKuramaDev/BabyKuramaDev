@@ -7,12 +7,12 @@
 ## Tecnologías que utilizo 🚀
 
 - **Lenguajes de programación**: Typescript, Javascript, PHP
-- **Frameworks**: React, Express.js, NestJS, Vue, Node.js, Laravel
-- **Bases de datos**: MongoDB, MySQL
+- **Frameworks**: React, Express.js, NestJS, Node.js, Laravel
+- **Bases de datos**: MongoDB, MySQL, PostgreSQL
 - **Control de versiones**: Git, GitHub, GitLab
 - **Metodologías Ágiles**: Scrum, Kanban
 - **Testing**: Jest, PHPUnit, Testing Library, Enzyme
-- **Otras herramientas**: Redux, StoryBook, JIRA, Postman, Formik, ML5.js, TensorFlow.js
+- **Otras herramientas**: Redux, StoryBook, JIRA, Postman, Formik, ML5.js, TensorFlow.js, Zustand
 
 ## Estadísticas de GitHub 📈
 
