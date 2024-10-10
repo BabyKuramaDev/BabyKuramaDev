@@ -16,7 +16,7 @@
 
 ## Estadísticas de GitHub 📈
 
-![Anurag's GitHub stats](https://github-readme-stats-five-ashy-75.vercel.app/api?username=KuramaBiju)
+![Anurag's GitHub stats](https://github-readme-stats-five-ashy-75.vercel.app/api?username=KuramaBiju&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KuramaBiju&theme=radical)
 
