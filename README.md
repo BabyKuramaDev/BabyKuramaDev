@@ -18,9 +18,9 @@ A continuación, encontrarás más información sobre mis habilidades y tecnolog
 
 ## Estadísticas de GitHub 📈
 
-![Anurag's GitHub stats](https://github-readme-stats-five-ashy-75.vercel.app/api?username=KuramaBiju&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
+![Anurag's GitHub stats](https://github-readme-stats-five-ashy-75.vercel.app/api?username=BabyKuramaDev&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KuramaBiju&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BabyKuramaDev&theme=radical)
 
 
 
