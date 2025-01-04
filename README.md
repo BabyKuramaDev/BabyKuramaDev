@@ -1,6 +1,8 @@
-# Jerónimo Dante Vico Ledesma
+# BabyKuramaDev
 
-¡Hola! 👋 Soy Jerónimo Dante Vico Ledesma, un Software Engineer y Tech Lead con experiencia en el desarrollo de aplicaciones web. Me encanta trabajar con tecnologías de vanguardia y contribuir a proyectos de código abierto. A continuación, encontrarás más información sobre mis habilidades y tecnologías con las que trabajo.
+¡Hola! 👋 Soy BabyKuramaDev, Senior Software Developer con experiencia en el desarrollo de aplicaciones web. Me encanta trabajar con tecnologías de vanguardia y contribuir a proyectos de código abierto. Además actualmente me encuentro haciendo Streams en Kick y Twitch, principalmente de Live Coding sobre Side Projects y aprendiendo nuevas tecnologías/frameworks.
+
+A continuación, encontrarás más información sobre mis habilidades y tecnologías con las que trabajo.
 
 ![Profile views](https://komarev.com/ghpvc/?username=KuramaBiju&color=blue)
 
