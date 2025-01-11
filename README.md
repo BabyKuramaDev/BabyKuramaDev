@@ -18,6 +18,7 @@ A continuación, encontrarás más información sobre mis habilidades y tecnolog
 
 ## Estadísticas de GitHub 📈
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabyKuramaDev&show_icons=true&hide_border=true&theme=tokyonight&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BabyKuramaDev&theme=radical)
 
