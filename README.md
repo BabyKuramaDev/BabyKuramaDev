@@ -16,14 +16,6 @@ Estoy en constante búsqueda de crecer y mejorar 10x como desarrollador. Actualm
 - **Testing**: Jest, PHPUnit, Testing Library, Enzyme
 - **Otras herramientas**: Redux, Zustand, StoryBook, JIRA, Postman, Formik
 
-## Estadísticas de GitHub 📈
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabyKuramaDev&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BabyKuramaDev)
-
-
-
 ## Conecta conmigo 🌐
 
 - [Email](mailto:jeronimoledesma0@gmail.com)
